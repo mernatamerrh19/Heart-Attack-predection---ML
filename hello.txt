@@ -1,3 +1,2 @@
-Hello
-World
-signed
+This project is a direct application for the paper: https://f1000research.com/articles/11-1126/v1
+Adding some other models in addition to the model they used, some other eature selection methods and data cleaning, Also refinning details of randomizations and the chosen parameters.
